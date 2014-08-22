@@ -1,0 +1,10 @@
+{
+  "name": "purescript-node-domain",
+  "version": "0.0.0",
+  "description": "PureScript bindings to node.js Domain API.",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.8.7",
+    "gulp-purescript": "0.0.10"
+  }
+}
