@@ -1,6 +1,6 @@
 {
   "name": "purescript-node-domain",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "PureScript bindings to node.js Domain API.",
   "license": "MIT",
   "devDependencies": {
