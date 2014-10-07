@@ -1,8 +1,7 @@
 module Node.Domain where
 
+  import Control.Events (EventEmitter, Variadic)
   import Control.Monad.Eff (Eff())
-
-  import Node.Events (EventEmitter, Variadic)
 
   foreign import data DomainEff :: !
   foreign import data Domain :: *
